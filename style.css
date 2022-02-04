@@ -1,0 +1,225 @@
+body {
+  font-family: "Kaisei Tokumin", serif;
+}
+
+.main_container {
+  font-family: "Kaushan Script", cursive;
+  padding-top: 4rem;
+  padding-right: 4rem;
+  padding-left: 4rem;
+  height: 48rem; /* 高さ指定 */
+  width: 100%; /* 幅指定 */
+  /* position: relative; */
+}
+
+.CenterRound {
+  width: 11rem;
+  height: 11rem;
+  border-radius: 50%;
+  background: white; /*背景色*/
+  position: absolute;
+  margin-top: 15rem;
+  margin-left: 35rem;
+}
+
+.centertext {
+  padding: 2rem;
+}
+
+.Mytext {
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.Portfoliotext {
+  color: #ffaf36;
+  font-size: 2rem;
+  margin-top: 5px;
+}
+
+.topic_container {
+  width: 100%;
+}
+
+.firstContainer {
+  width: 100%;
+  display: flex;
+  flex-wrap: row;
+}
+
+.secondContainer {
+  width: 100%;
+  display: flex;
+  flex-wrap: row;
+}
+
+.bigfromcontainer {
+  background-color: #e1ffff;
+  height: 20rem;
+  width: 50%;
+  display: flex;
+}
+.bighobbycontainer {
+  background-color: #f9dfff;
+  height: 20rem;
+  width: 50%;
+  display: flex;
+}
+.biguniversitycontainer {
+  background-color: #ffc6c6;
+  height: 20rem;
+  width: 50%;
+  display: flex;
+}
+.bigsnscontainer {
+  background-color: #fffdd7;
+  height: 20rem;
+  width: 50%;
+  display: flex;
+}
+
+.fromContent {
+  padding-top: 1rem;
+  margin: auto;
+  color: #2c2c2f;
+  background: white; /*背景色*/
+  border-radius: 20px;
+  height: 30%;
+  width: 30%;
+}
+
+.hobbyContent {
+  padding-top: 1rem;
+  margin: auto;
+  color: #2c2c2f;
+  background: white; /*背景色*/
+  border-radius: 20px;
+  height: 30%;
+  width: 30%;
+}
+
+.universityContent {
+  padding-top: 1rem;
+  margin: auto;
+  color: #2c2c2f;
+  background: white; /*背景色*/
+  border-radius: 20px;
+  height: 30%;
+  width: 30%;
+}
+
+.snsContent {
+  padding-top: 1rem;
+  margin: auto;
+  color: #2c2c2f;
+  background: white; /*背景色*/
+  border-radius: 20px;
+  height: 30%;
+  width: 30%;
+}
+
+.text {
+  text-align: center;
+  padding-top: 1rem;
+  font-size: 1.3rem;
+}
+
+.nametext {
+  font-family: "Kaushan Script", cursive;
+  text-align: center;
+  padding-bottom: 3rem;
+  font-size: 2.5rem;
+  color: rgba(0, 0, 0, 0.596);
+}
+
+.frombox {
+  background-color: #e1ffff;
+  height: 5rem;
+}
+
+.fromtext {
+  font-family: "Kaushan Script", cursive;
+  margin-left: 40px;
+  padding-top: 20px;
+  font-size: 2rem;
+}
+
+.text_content {
+  width: 40%;
+  margin-left: 40px;
+  margin-top: 9rem;
+  text-align: center;
+  font-size: 1.3rem;
+  line-height: 2.5rem;
+}
+
+.fromcontainer {
+  display: flex;
+}
+
+.fromimages {
+  width: 60%;
+  display: flex;
+  flex-flow: column;
+}
+
+.img1 {
+  width: 40%;
+  margin-top: 3rem;
+  margin-left: 3rem;
+  margin-right: 40px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+  height: 250px;
+  width: 400px;
+}
+
+.img2 {
+  width: 40%;
+  margin-top: 20px;
+  margin-left: 27rem;
+  margin-right: 40px;
+  margin-bottom: 3rem;
+  border-radius: 20px;
+  height: 250px;
+  width: 400px;
+}
+
+.hobbybox {
+  background-color: #f9dfff;
+  height: 5rem;
+}
+
+.universitybox {
+  background-color: #ffc6c6;
+  height: 5rem;
+}
+
+.snsbox {
+  background-color: #fffdd7;
+  height: 5rem;
+}
+
+.fromgoodcontainer {
+  position: absolute;
+  margin-top: 30rem;
+  margin-left: 17rem;
+}
+
+.hobbygoodcontainer {
+  position: absolute;
+  margin-top: 30rem;
+  margin-left: 17rem;
+}
+
+.universitygoodcontainer {
+  position: absolute;
+  margin-top: 30rem;
+  margin-left: 17rem;
+}
+
+.snsgoodcontainer {
+  position: absolute;
+  margin-top: 30rem;
+  margin-left: 17rem;
+}
